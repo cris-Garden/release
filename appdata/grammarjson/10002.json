@@ -1,0 +1,37 @@
+{
+    "id": 10002,
+    "level": "N2",
+    "title": "にしろ",
+    "means": [
+        {
+            "id": 10002100,
+            "format": "5pmu6YCa5b2iKOODiiBBIOOBp+OBguOCi++8j04g44Gn44GC44KLKe+8i+OBq+OBl+OCjeaIlk4v44OKQeWOu+OBoO+8i+OBq+OBl+OCjQ==",
+            "mean": [
+                "44Go5Luu5a6a44GX44Gm44KCwqDCoOWwseeul+aYr++9nuS5n+KApiA="
+            ],
+            "type": [
+                "逆接条件"
+            ],
+            "examples": [
+                {
+                    "id": 18658,
+                    "ruby": "たとえ<ruby><rb>金</rb><rt>かね</rt></ruby>がないにしろ、<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>だけはきちんと<ruby><rb>取</rb><rt>と</rt></ruby>るべきだ。",
+                    "explain": "就算没钱也该好好吃饭。",
+                    "other": ""
+                },
+                {
+                    "id": 18659,
+                    "ruby": "<ruby><rb>勤</rb><rt>つと</rt></ruby>め<ruby><rb>先</rb><rt>さき</rt></ruby>が<ruby><rb>小</rb><rt>ち</rt></ruby>さい<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>であるにしろ、<ruby><rb>社員</rb><rt>しゃいん</rt></ruby>は<ruby><rb>就業</rb><rt>しゅうぎょう</rt></ruby><ruby><rb>規則</rb><rt>きそく</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならない。",
+                    "explain": "就算在小公司工作，也必须遵守上班规则。",
+                    "other": ""
+                },
+                {
+                    "id": 18660,
+                    "ruby": "もし<ruby><rb>少年</rb><rt>しょうねん</rt></ruby>が<ruby><rb>家出</rb><rt>いえで</rt></ruby>をしたにしろ、まだそんなに<ruby><rb>遠</rb><rt>とお</rt></ruby>くへは<ruby><rb>行</rb><rt>おこな</rt></ruby>っていないだろう。",
+                    "explain": "就算少年离家出走了，应该还没走远吧。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

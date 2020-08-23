@@ -1,0 +1,20 @@
+{
+    "news":[
+        {
+            "id":"2020082102",
+            "title":"ウイルスが原因で仕事をなくした技能実習生から相談を聞く",
+            "time":"8月21日 17時50分",
+            "imgurl":"https://www3.nhk.or.jp/news/html/20200820/K10012575881_2008201721_2008201821_01_02.jpg",
+            "fromUrl":"https://www3.nhk.or.jp/news/easy/k10012575881000/k10012575881000.html",
+            "path":"appdata/news/20200821102.json"
+        },
+        {
+            "id":"2020082101",
+            "title":"日本に住む外国人　９月から日本に戻れるようにしたい",
+            "time":"8月21日 17時50分",
+            "imgurl":"https://www3.nhk.or.jp/news/html/20200820/K10012575871_2008201840_2008201840_01_03.jpg",
+            "fromUrl":"https://www3.nhk.or.jp/news/easy/k10012576621000/k10012576621000.html",
+            "path":"appdata/news/20200821101.json"
+        }
+    ]
+}
