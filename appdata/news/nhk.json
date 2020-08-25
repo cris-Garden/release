@@ -1,6 +1,46 @@
 {
     "news":[
         {
+            "id":"2020082401",
+            "title":"東京や横浜で空を光の玉のような物が落ちていった",
+            "time":"8月24日 17時30分",
+            "imgurl":"https://www3.nhk.or.jp/news/html/20200820/K10012575881_2008201721_2008201821_01_02.jpg",
+            "fromUrl":"https://www3.nhk.or.jp/news/easy/k10012578421000/k10012578421000.html",
+            "path":"appdata/news/2020082401.json"
+        },
+        {
+            "id":"2020082402",
+            "title":"東京パラリンピックまで１年　スカイツリーが３つの色に光る",
+            "time":"8月24日 17時30分",
+            "imgurl":"https://www3.nhk.or.jp/news/html/20200820/K10012575881_2008201721_2008201821_01_02.jpg",
+            "fromUrl":"https://www3.nhk.or.jp/news/easy/k10012578421000/k10012578421000.html",
+            "path":"appdata/news/2020082402.json"
+        },
+        {
+            "id":"2020082403",
+            "title":"コロナウイルス「９月がつもイベントの客きゃくは５０００人にんまで」",
+            "time":"8月24日 17時30分",
+            "imgurl":"https://www3.nhk.or.jp/news/html/20200820/K10012575881_2008201721_2008201821_01_02.jpg",
+            "fromUrl":"https://www3.nhk.or.jp/news/easy/k10012578421000/k10012578421000.html",
+            "path":"appdata/news/2020082403.json"
+        },
+        {
+            "id": "2020082404",
+            "path":"appdata/news/2020082404.json",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012576621000/k10012576621000.html",
+            "title": "「車の中でスプレーを使うときは窓を開けて」",
+            "time": "8月24日 17時30分",
+            "imgurl": "https://www3.nhk.or.jp/news/html/20200820/K10012575871_2008201840_2008201840_01_03.jpg"
+        },
+        {
+            "id": "2020082405",
+            "path":"appdata/news/2020082405.json",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012576621000/k10012576621000.html",
+            "title": "コロナウイルス「今がピークだが気をつける必要がある」",
+            "time": "8月24日 17時30分",
+            "imgurl": "https://www3.nhk.or.jp/news/html/20200820/K10012575871_2008201840_2008201840_01_03.jpg"
+        },
+        {
             "id":"2020082102",
             "title":"ウイルスが原因で仕事をなくした技能実習生から相談を聞く",
             "time":"8月21日 17時50分",
